@@ -62,6 +62,7 @@ lark==1.3.1
 markdown-it-py==4.3.0
 MarkupSafe==3.0.4
 mdurl==0.1.2
+mem0ai==2.2.1
 multidict==7.2.1
 numpy==2.4.6
 openai==3.29.0
@@ -77,8 +78,9 @@ orjson==3.13.0
 ormsgpack==1.13.1
 packaging==26.3
 portalocker==4.4.2
+posthog==8.1.0
 propcache==0.5.4
-protobuf==7.36.2
+protobuf==6.33.6
 pyasn1==0.6.4
 pyasn1_modules==0.4.2
 pycparser==3.11
@@ -93,6 +95,7 @@ pypdf==7.1.0
 python-dateutil==4.0.0
 python-dotenv==1.2.4
 python-multipart==0.0.33
+pytz==2026.6
 PyYAML==6.0.3
 qdrant-client==1.20.0
 redis==8.1.0
